@@ -33,7 +33,7 @@ void pattern(int n){
 }
 int main (){
     int n=5;
-    // cin>>n;
+    cin>>n;
     pattern(n);
     return 0;
 }
